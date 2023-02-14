@@ -1,6 +1,6 @@
 # Fan_Speed_Controller
 ## Desciption :
-### A temperature-controlled fan is automatically turned ON or OFF and regulates the its speed according to the temperature.
+#### A temperature-controlled fan is automatically turned ON or OFF and regulates the its speed according to the temperature.
 ## Drivers:
 > GPIO, ADC, LCD, PWM, Temperature Sensor and DC-Motor.
 ## Microcontroller:
