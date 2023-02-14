@@ -20,5 +20,5 @@ maximum speed.
 - If the temperature is greater than or equal 120C turn on the fan with 100% of its 
 maximum speed.
 
-### Aim of the proect :
+### Aim of the project :
 Electronic devices produce heat which should be reduced to protect the device. There are many ways to reduce this heat one of them is to switch ON the fan immediately. This project describes a circuit that automatically switches the fan when it detects the temperature inside the device greater than specific value. This project also deals with showing the current temperature when installed inside a room and control the speed of fan according to user’s comfort at that temperature eliminating human efforts.
